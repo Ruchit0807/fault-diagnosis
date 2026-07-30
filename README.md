@@ -1,4 +1,4 @@
-# Fault Analysis.
+# Fault Diagnosis.
 
 ## Table of Contents
 
