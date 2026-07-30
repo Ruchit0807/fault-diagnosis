@@ -1,6 +1,7 @@
 # Fault Diagnosis.
 
-![Uploading 285569004-49561e31-b6e1-47f4-ad5e-d85da5cc7dd5.gif…]()
+<img width="1152" height="648" alt="285569004-49561e31-b6e1-47f4-ad5e-d85da5cc7dd5" src="https://github.com/user-attachments/assets/ff11a537-2613-42de-8b3d-eb4f8d8ff378" />
+
 
 ## Table of Contents
 
