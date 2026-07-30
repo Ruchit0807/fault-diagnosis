@@ -1,5 +1,7 @@
 # Fault Diagnosis.
 
+![Uploading 285569004-49561e31-b6e1-47f4-ad5e-d85da5cc7dd5.gif…]()
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
